@@ -1,8 +1,8 @@
-Tento repozitář obsahuje konkrétní tweety namířené proti Ukrajině.
+Tento repozitář obsahuje konkrétní tweety namířené proti Ukrajině za rok 2024
 
 -  [AntiUA tweety - 14. týden](14-week.md)
 
-Aktéři, kterí publikjí tři nebo více tweetů, jsou vypsáni v tomto souboru.
+Aktéři, kterí publikovali tři nebo více tweetů, jsou vypsáni v tomto souboru. V adresáři CSV jsou uložena podrobnější data.
 
 | ID                  | TW handle       | Following | Followers | join_datetime           |
 | :------------------ | :-------------- | :-------- | :-------- | ----------------------- |
